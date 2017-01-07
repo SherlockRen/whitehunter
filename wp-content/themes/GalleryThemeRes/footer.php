@@ -4,11 +4,9 @@
 
 <div class="footer_copyright">
 
-	<div class="container">
+    <div class="container">
 
-	
-		
-		© 2015 All Rights Reserved. Developed by <a href="http://dessign.net">Dessign.net</a></div>
+		© 2017 All Rights Reserved. Developed by <a href="https://github.com/SherlockRen">SherlockRen</a></div>
 
 		<div class="clear"></div>
 
